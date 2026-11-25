@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+
+# Python environments
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
